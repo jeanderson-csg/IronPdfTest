@@ -1,0 +1,14 @@
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\bin\Debug\netcoreapp3.1\IronPDFTest.exe
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\obj\Debug\netcoreapp3.1\IronPDFTest.csprojAssemblyReference.cache
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\obj\Debug\netcoreapp3.1\IronPDFTest.AssemblyInfoInputs.cache
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\obj\Debug\netcoreapp3.1\IronPDFTest.AssemblyInfo.cs
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\bin\Debug\netcoreapp3.1\IronPDFTest.deps.json
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\bin\Debug\netcoreapp3.1\IronPDFTest.runtimeconfig.json
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\bin\Debug\netcoreapp3.1\IronPDFTest.runtimeconfig.dev.json
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\bin\Debug\netcoreapp3.1\IronPDFTest.dll
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\bin\Debug\netcoreapp3.1\IronPDFTest.pdb
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\bin\Debug\netcoreapp3.1\IronPdf.Assets.Rendering.Universal.dll
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\bin\Debug\netcoreapp3.1\IronPdf.dll
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\obj\Debug\netcoreapp3.1\IronPDFTest.csproj.CopyComplete
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\obj\Debug\netcoreapp3.1\IronPDFTest.dll
+C:\Users\janderson\source\repos\IronPDFTest\IronPDFTest\obj\Debug\netcoreapp3.1\IronPDFTest.pdb
